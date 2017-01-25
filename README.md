@@ -1,2 +1,0 @@
-# SuperSoccerScore
-Swift Update
